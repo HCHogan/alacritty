@@ -43,7 +43,7 @@ scrolling:
   # 自动滚动至最新行
   auto_scroll: true
 font:
-  size: 16
+  size: 17
   # 字体
   normal:
     family: 'FiraCode Nerd Font'
@@ -54,7 +54,7 @@ font:
   italic:
     family: 'FiraCode Nerd Font'
     style: Italic
-  bold_{i}talic:
+  bold_italic:
     family: 'FiraCode Nerd Font'
     style: Bold Italic
 
